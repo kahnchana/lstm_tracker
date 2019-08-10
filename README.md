@@ -56,5 +56,5 @@ file also contains code to obtain IOU-matched precision and MSE accuracy.
  
 
 ## Sample Output
-A sample tracked frame is shown below.
+A few sample tracked frames are shown below.
 ![image](sample.jpeg)
