@@ -1,0 +1,5 @@
+models/
+data/
+
+.DS_STORE
+.idea
