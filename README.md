@@ -4,6 +4,18 @@
 This module contains code for running a LSTM network to track objects using only the 
 spatial information. KITII and MOT datasets are used for training and validation purposes. 
 
+If using this work, you may cite the following:
+```
+@misc{ranasinghe2019extending,
+    title={Extending Multi-Object Tracking systems to better exploit appearance and 3D information},
+    author={Kanchana Ranasinghe and Sahan Liyanaarachchi and Harsha Ranasinghe and Mayuka Jayawardhana},
+    year={2019},
+    eprint={1912.11651},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
 ## Dependencies
 The following libraries are required. 
 * python==3.6
