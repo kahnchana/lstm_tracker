@@ -32,7 +32,7 @@ requires nvidia-docker and a GPU enabled machine.
 ## Visualize Data
 Data can either be generated from the raw datasets or the processed data (JSON files 
 containing tracks) which can be downloaded from 
-[here](https://drive.google.com/open?id=1fhdGeDoRCp9KYOuoghJFgjJvcS2tPTYv). These two 
+[here](https://drive.google.com/file/d/1CNcIsC0GPlGC9tbiKvXODuLM-aioBmLd/view?usp=sharing). These two 
 JSON files should be placed inside the /data folder (create the folder if not present
 already). 
 
